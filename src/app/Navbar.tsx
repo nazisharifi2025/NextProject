@@ -8,6 +8,7 @@ function Navbar() {
         <Link href="Fouts?page=2">Frouts</Link>
         <Link href="Login">Login</Link>
         <Link href="SignUp">SignUp</Link>
+        <Link href="post">Post</Link>
     </div>
   )
 }
